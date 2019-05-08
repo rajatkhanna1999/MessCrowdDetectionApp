@@ -17,6 +17,7 @@ $ git clone https://github.com/rajatkhanna1999/MessCrowdDetectionApp.git
 ```
 Then open in Android Studio.
 #### Screenshots
+<img src="https://user-images.githubusercontent.com/31288037/57392932-ab792600-71df-11e9-8e80-d2f2a8f961be.jpeg" width="340" height="567">
 ![WhatsApp Image 2019-05-07 at 3 18 07 PM (12)](https://user-images.githubusercontent.com/31288037/57392932-ab792600-71df-11e9-8e80-d2f2a8f961be.jpeg)
 ![WhatsApp Image 2019-05-07 at 3 18 06 PM](https://user-images.githubusercontent.com/31288037/57392863-7f5da500-71df-11e9-98e6-da552445660e.jpeg)
 ![WhatsApp Image 2019-05-07 at 3 18 07 PM (3)](https://user-images.githubusercontent.com/31288037/57392973-c055b980-71df-11e9-9f3c-164af77e50c8.jpeg)
