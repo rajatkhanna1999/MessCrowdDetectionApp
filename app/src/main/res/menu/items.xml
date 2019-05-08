@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_FaceDetection"
+            android:icon="@drawable/face"
+            android:title="Face Detection" />
+        <item
+            android:id="@+id/nav_MyOrders"
+            android:icon="@drawable/orders"
+            android:title="My Orders " />
+        <item
+            android:id="@+id/nav_Schedule"
+            android:icon="@drawable/readlines"
+            android:title="Schedule" />
+
+
+    </group>
+
+
+</menu>

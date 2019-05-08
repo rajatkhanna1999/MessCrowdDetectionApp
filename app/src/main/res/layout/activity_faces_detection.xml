@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".FacesDetection">
+
+    <com.wonderkiln.camerakit.CameraView
+        android:id="@+id/camera_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.wonderkiln.camerakit.CameraView>
+
+    <com.example.messappl.Helper.GraphicOverlay
+        android:id="@+id/graphics_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.example.messappl.Helper.GraphicOverlay>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/text"
+        android:background="@android:color/white"
+        android:textColor="@color/black"
+        android:text="Counting..."
+        android:gravity="center"
+        android:textSize="20dp"
+        />
+</RelativeLayout>
